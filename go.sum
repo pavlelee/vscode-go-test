@@ -1,2 +1,6 @@
 github.com/pavlelee/vscode-test-module v0.0.0-20210831114240-d8bd0d10152a h1:jwZwPVd7hN/5Xm/88IeMl3rtdhZK20LU3ds0EhA7uhI=
 github.com/pavlelee/vscode-test-module v0.0.0-20210831114240-d8bd0d10152a/go.mod h1:jp8XyixfdKRIRy50QqslDyL/u51GBKSzR3F3xRDKIs8=
+github.com/pavlelee/vscode-test-module v0.0.0-20210831115016-1d592a57cb2c h1:mrKuBAqaE5aOg+bOHNoXoA9tNYY07bhWRGMc8HG/F94=
+github.com/pavlelee/vscode-test-module v0.0.0-20210831115016-1d592a57cb2c/go.mod h1:jp8XyixfdKRIRy50QqslDyL/u51GBKSzR3F3xRDKIs8=
+github.com/pavlelee/vscode-test-module v0.0.0-20210831120527-bed75865c3ac h1:Vtur5zhtKRD6AYZSavhtuER86OgTuOcPdZ4JCKzR+2Q=
+github.com/pavlelee/vscode-test-module v0.0.0-20210831120527-bed75865c3ac/go.mod h1:jp8XyixfdKRIRy50QqslDyL/u51GBKSzR3F3xRDKIs8=

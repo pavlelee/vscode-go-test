@@ -1,13 +1,13 @@
 package pkg
 
 import (
-	"github.com/pavlelee/vscode-test-module/pkg"
+	"github.com/pavlelee/vscode-test-module/pkg/provider"
 )
 
 type Provider struct {
 }
 
-var _ pkg.Provider = &Provider{}
+var _ provider.Provider = &Provider{}
 
 func (p *Provider) Name() string {
 	panic("not implemented") // TODO: Implement
